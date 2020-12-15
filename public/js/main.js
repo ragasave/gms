@@ -115,16 +115,50 @@
 
 
 window.addEventListener('scroll', function(e) {
-    let h = window.innerHeight,
-    y = window.scrollY + 50,
-    index = Math.ceil(y / h) - 1,
-    section = document.getElementsByTagName('section')[index];
+    // let h = window.innerHeight,
+    // y = window.scrollY,
+    // index = Math.ceil(y / h) - 1,
+    // section = document.getElementsByTagName('section')[index];
     // if(y > h && y < h*2){
         
     // }
+    section = document.elementsFromPoint(0, 40).find(function(elem) {
+        return elem.localName == "section"
+    });
     if(section && section.classList.contains('section-ldark')){
         document.querySelector('body').classList.add('hbw');
     }else{
         document.querySelector('body').classList.remove('hbw');
     }
-})
+});
+
+
+
+
+
+
+(function(){
+    var nodes, timer, index, darkNodes;
+    nodes = document.querySelectorAll('.subtitle span');
+    nodes = document.querySelectorAll('.subtitle span');
+    darkNodes = document.querySelectorAll('.subtitle .txt-dark-mark');
+    index = 0;
+    timer = setInterval(function() {
+        nodes[index].classList.add('text-amin');
+        if(index == nodes.length-1){
+            clearInterval(timer);
+            index=0;
+            timer = setInterval(function() {
+                darkNodes[index].classList.add('txt-dark');
+                if(index == darkNodes.length-1){
+                    clearInterval(timer);
+                }
+                index++;
+            }, 300);
+        }else{
+            index++;
+        }
+    }, 300);
+    
+
+})()

@@ -10,11 +10,13 @@
 :root {
   --color-grey: #757575;
   --color-theme: #ff7f00;
+  --color-dark: #212121;
 }
 
 body {
   width: 100%;
   min-height: 100vh;
+  background-color: #f7f7f7;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -36,7 +38,7 @@ body {
 }
 
 .section-ldark {
-  background-color: var(--color-grey);
+  background-color: var(--color-dark);
 }
 
 .section-container {
@@ -45,28 +47,43 @@ body {
   padding: 10px;
 }
 
+
+/* uppercase */
 .uc {
   text-transform: uppercase;
 }
+
+/* text center */
 .tc {
   text-align: center;
 }
+
+/* theme text color */
 .ttc {
   color: var(--color-theme);
 }
+
+/* font-weight bold */
 .fb {
   font-weight: bold;
 }
+
+/* font-weight medium */
 .fm {
-  font-weight: 600;
+  font-weight: 500;
 }
 
+/* lite text color */
 .ltc {
   color: var(--color-grey);
 }
+
+/* position replative */
 .pr {
   position: relative;
 }
+
+/* display hide */
 .dh{
   display: none;
 }
@@ -90,6 +107,7 @@ body {
 }
 .header-logo {
   width: 100%;
+  font-size: 0px;
 }
 
 .header-logo img {
@@ -105,19 +123,37 @@ body {
   vertical-align: middle;
 }
 .hbw .header-menu-btn{
-  background-image: url("../images/white-bars.svg");
+  border-color: #fff;
+
 }
-.header-menu-btn {
-  background-image: url("../images/bars.svg");
-  width: 30px;
-  height: 30px;
-  background-position: center;
+.header-menu-btn  {
+  width: 25px;
+  height: 25px;
   display: block;
-  background-size: 100%;
+  cursor: pointer;
+  border-color: black;
+}
+.header-menu-btn div {
+  display: block;
+  width: 100%;
+  height: 0px;
+  border-bottom: 3px solid;
+  border-color: inherit;
+  display: block;
+  margin: 5px 0px;
+  position: relative;
+  top: 0px;
+  transition: all 0.1s;
+}
+.header-menu-btn:hover div:first-child {
+  top: -2px;
+}
+.header-menu-btn:hover div:last-child {
+  top: 2px;
 }
 
 .earth-box {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .earth-wrapper {
@@ -188,7 +224,7 @@ body {
 }
 
 .subtitle-container .subtitle {
-  color: #fff;
+  color: transparent;
   font-weight: bold;
   padding: 10px;
   font-size: 5em;
@@ -197,9 +233,17 @@ body {
   display: table;
   margin: auto;
 }
+.subtitle-container .subtitle span{
+  visibility: hidden;
+  transition: visibility, color 1s;
+}
 
-.subtitle-container .subtitle span {
+.subtitle-container .subtitle span.txt-dark.text-amin {
   color: #000;
+}
+.subtitle-container .subtitle span.text-amin {
+  visibility: visible;
+  color: #fff;
 }
 
 .service-list {
