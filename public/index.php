@@ -34,7 +34,7 @@ include_once './config.php';
 
     <section class="section">
         <div class="section-wrapper earth-box">
-            <div class="cc hc glob-full-width-1100">
+            <div class="cc hc hf glob-full-width-1100">
                 <div class="ccw">
                     <div class="pr">
                         <div class="earth-wrapper">
