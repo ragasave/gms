@@ -249,7 +249,7 @@ body {
 
 @media (max-width: 768px) {
   #earth {
-    width: 20em;
+    width: 100vw;
   }
   .dist-location {
     width: 3em;
