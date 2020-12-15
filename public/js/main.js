@@ -63,11 +63,19 @@
 
 
     var heading, subHeading, description;
+    var headingElem, subHeadingElem, descriptionElem;
+    headingElem = document.querySelector(".xx-dist-name")
+    subHeadingElem = document.querySelector(".xx-country-name")
+    descriptionElem = document.querySelector(".xx-dist-description")
     function writeCompanydetials(data) {
-        document.querySelector(".xx-dist-name").textContent = "";
-        document.querySelector(".xx-country-name").textContent = "";
-        document.querySelector(".xx-dist-description").textContent = "";
+        headingElem.textContent = "";
+        subHeadingElem.textContent = "";
+        descriptionElem.textContent = "";
+        // headingElem.classList.add('dh')
+        subHeadingElem.classList.add('dh')
+        descriptionElem.classList.add('dh')
 
+        
         if(heading){
             heading.destroy();
         }
@@ -84,12 +92,14 @@
                 instance.destroy();
 
                 // country
+                subHeadingElem.classList.remove('dh')
                 subHeading = new TypeIt(".xx-country-name", {
                     strings: data.country,
 
                     // paragraph
                     afterComplete: async (step, instance) => {
                         instance.destroy();
+                        descriptionElem.classList.remove('dh')
                         description = new TypeIt(".xx-dist-description", {
                             strings: data.description,
                             afterComplete: async (step, instance) => {
@@ -102,3 +112,19 @@
         }).go();
     }
 })()
+
+
+window.addEventListener('scroll', function(e) {
+    let h = window.innerHeight,
+    y = window.scrollY + 50,
+    index = Math.ceil(y / h) - 1,
+    section = document.getElementsByTagName('section')[index];
+    // if(y > h && y < h*2){
+        
+    // }
+    if(section && section.classList.contains('section-ldark')){
+        document.querySelector('body').classList.add('hbw');
+    }else{
+        document.querySelector('body').classList.remove('hbw');
+    }
+})

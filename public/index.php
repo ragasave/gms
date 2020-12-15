@@ -18,7 +18,7 @@ include_once './config.php';
         <div class="header-wrapper">
             <div class="header-logo">
                 <a href="http://">
-                    <img src="./images/logo-sm.png" alt="" srcset="">
+                    <img src="./images/logo-md.png" alt="" srcset="">
                 </a>
             </div>
             <div class="header-menu-toggler">
@@ -58,17 +58,20 @@ include_once './config.php';
     </section>
 
 
-    <div class="section-ldark subtitle-container">
-        <div class="cc">
-            <div class="ccw">
-                <h2 class="subtitle">
-                    We Are <span>Your</span> <br>
-                    Vista to <br>
-                    <span>International</span> Market
-                </h2>
+    <section class="section-ldark">
+        <div class="section-container subtitle-container">
+            <div class="cc">
+                <div class="ccw">
+                    <h2 class="subtitle">
+                        We Are <span>Your</span> <br>
+                        Vista to <br>
+                        <span>International</span> Market
+                    </h2>
+                </div>
             </div>
+
         </div>
-    </div>
+    </section>
 
 
 
@@ -91,7 +94,7 @@ include_once './config.php';
     <br>
     <br>
 
-    <div class="section">
+    <section class="section">
         <div class="section-container">
 
 
@@ -185,7 +188,7 @@ include_once './config.php';
                 </p>
             </div>
         </div>
-    </div>
+    </section>
 
 
 
@@ -195,11 +198,11 @@ include_once './config.php';
 
 
 
-    <div class="section-ldark">
+    <section class="section-ldark">
         <br>
         <br>
         <br>
-    </div>
+    </section>
 
 
     <script>
