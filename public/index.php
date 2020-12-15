@@ -60,7 +60,7 @@ include_once './config.php';
     </section>
 
 
-    <section class="section-ldark">
+    <section class="section-ldark subtitle-section">
         <div class="section-container subtitle-container">
             <div class="cc">
                 <div class="ccw">
