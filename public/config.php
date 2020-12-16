@@ -13,8 +13,8 @@ $config = [
             "name" => "Ragasave Creatives",
             "country" => "India",
             "description" => "A Web Designing & Development Company <br> Based In India.",
-            "lat" => 37.0902,
-            "lng" => 95.7129,
+            "lat" => 95.7129,
+            "lng" => 37.0902,
         ],
         [
             "name" => "Newage Realfin Pvt. Ltd.",
