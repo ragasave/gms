@@ -137,7 +137,7 @@ body {
   text-decoration: none;
 }
 .menu-nav-items-wpr .menu-nav-item:first-child a{
-  border-left: none;
+  /* border-left: none; */
 }
 .menu-nav-item a{
   border-left: 2px solid var(--color-theme);
