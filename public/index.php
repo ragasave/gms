@@ -32,9 +32,50 @@ include_once './config.php';
     </header>
 
 
+
+    <div class="menu">
+        <div class="menu-container">
+            <div class="menu-nav-items">
+                <ul class="menu-nav-items-wpr">
+                    <li class="menu-nav-item">
+                        <a href="">About Us</a>
+                    </li>
+                    <li class="menu-nav-item">
+                        <a href="">Our Services</a>
+                    </li>
+                    <li class="menu-nav-item">
+                        <a href="">Our Client</a>
+                    </li>
+                    <li class="menu-nav-item">
+                        <a href="">Investor Lobby</a>
+                    </li>
+                    <li class="menu-nav-item">
+                        <a href="">News</a>
+                    </li>
+                    <li class="menu-nav-item">
+                        <a href="">Blogs</a>
+                    </li>
+                    <li class="menu-nav-item">
+                        <a href="">Careers</a>
+                    </li>
+                    <li class="menu-nav-item">
+                        <a href="">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="menu-cards-items">
+                <div class="menu-cards-items-wpr">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
     <section class="section">
         <div class="section-wrapper earth-box">
-            <div class="cc hc hf glob-full-width-1100">
+            <div class="cc hc mhf glob-full-width-1100">
                 <div class="ccw">
                     <div class="pr">
                         <div class="earth-wrapper">
@@ -60,7 +101,7 @@ include_once './config.php';
     </section>
 
 
-    <section class="section-ldark subtitle-section">
+    <section class="section-ldark subtitle-section section">
         <div class="section-container subtitle-container">
             <div class="cc">
                 <div class="ccw">
@@ -201,13 +242,198 @@ include_once './config.php';
 
 
 
+    
+
+    <section class="section-ldark section">
+        <div class="section-container">
+            <br>
+            <h1 class="tcw tc">Let's deliver the right solution for your business.</h1>
+            <br>
+        </div>
+    </section>
+
+    <section class="section solution-section">
+        <div class="section-container solution-section-container">
+            <div class="solution-section-s1">
+                <div class="solution-section-s1-items">
+                    <div class="solution-section-s1-item">
+                        <div class="solution-section-s1-item-wpr">
+                            <div class="solution-section-s1-item-name">
+                                <h3 class=solution-section-s1-item-name-txt>growth strategy</h3>
+                            </div>
+                            <div class="solution-section-s1-item-imgw">
+                                <div class="solution-section-s1-item-img"></div>
+                            </div>
+                            <div class="solution-section-s1-item-desc">
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                                </p>
+                                <a href="" class="solution-section-s1-item-details-link">More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="solution-section-s1-item">
+                        <div class="solution-section-s1-item-wpr">
+                            <div class="solution-section-s1-item-name">
+                                <h3 class=solution-section-s1-item-name-txt>growth strategy</h3>
+                            </div>
+                            <div class="solution-section-s1-item-imgw">
+                                <div class="solution-section-s1-item-img"></div>
+                            </div>
+                            <div class="solution-section-s1-item-desc">
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                                </p>
+                                <a href="" class="solution-section-s1-item-details-link">More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="solution-section-s1-item">
+                        <div class="solution-section-s1-item-wpr">
+                            <div class="solution-section-s1-item-name">
+                                <h3 class=solution-section-s1-item-name-txt>growth strategy</h3>
+                            </div>
+                            <div class="solution-section-s1-item-imgw">
+                                <div class="solution-section-s1-item-img"></div>
+                            </div>
+                            <div class="solution-section-s1-item-desc">
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                                </p>
+                                <a href="" class="solution-section-s1-item-details-link">More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="solution-section-s1-item">
+                        <div class="solution-section-s1-item-wpr">
+                            <div class="solution-section-s1-item-name">
+                                <h3 class=solution-section-s1-item-name-txt>growth strategy</h3>
+                            </div>
+                            <div class="solution-section-s1-item-imgw">
+                                <div class="solution-section-s1-item-img"></div>
+                            </div>
+                            <div class="solution-section-s1-item-desc">
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                                </p>
+                                <a href="" class="solution-section-s1-item-details-link">More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="solution-section-s2">
+                <div class="solution-section-s2-wpr">
+
+                    <div class="solution-section-s2-items">
+                        <div class="solution-section-s2-item">
+                            <img src="images/image-250nw-740148886.png" alt="" class="solution-section-s2-item-img">
+                            <h3>Rapidity</h3>
+                        </div>
+                        <div class="solution-section-s2-item">
+                            <img src="images/istockphoto-1227604162-612x612.png" alt="" class="solution-section-s2-item-img">
+                            <h3>Reduce Risk</h3>
+                        </div>
+                        <div class="solution-section-s2-item">
+                            <img src="images/download.png" alt="" class="solution-section-s2-item-img">
+                            <h3>Efficiency</h3>
+                        </div>
+                        <div class="solution-section-s2-item">
+                            <img src="images/worldwide-globe.png" alt="" class="solution-section-s2-item-img">
+                            <h3>Worldwide Influence</h3>
+                        </div>
+                    </div>
+
+
+                    <div class="solution-section-s2-title">
+                        <span>Why Us?</span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="solution-section-s3">
+                <div class="solution-section-s3-items">
+                    <div class="solution-section-s3-item">
+                        <div class="solution-section-s3-item-wpr">
+                            <div class="solution-section-s3-item-name">
+                                <h3 class=solution-section-s3-item-name-txt>growth strategy</h3>
+                            </div>
+                            <div class="solution-section-s3-item-imgw">
+                                <div class="solution-section-s3-item-img"></div>
+                            </div>
+                            <div class="solution-section-s3-item-desc">
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                                </p>
+                                <a href="" class="solution-section-s3-item-details-link">More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="solution-section-s3-item">
+                        <div class="solution-section-s3-item-wpr">
+                            <div class="solution-section-s3-item-name">
+                                <h3 class=solution-section-s3-item-name-txt>growth strategy</h3>
+                            </div>
+                            <div class="solution-section-s3-item-imgw">
+                                <div class="solution-section-s3-item-img"></div>
+                            </div>
+                            <div class="solution-section-s3-item-desc">
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                                </p>
+                                <a href="" class="solution-section-s3-item-details-link">More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="solution-section-s3-item">
+                        <div class="solution-section-s3-item-wpr">
+                            <div class="solution-section-s3-item-name">
+                                <h3 class=solution-section-s3-item-name-txt>growth strategy</h3>
+                            </div>
+                            <div class="solution-section-s3-item-imgw">
+                                <div class="solution-section-s3-item-img"></div>
+                            </div>
+                            <div class="solution-section-s3-item-desc">
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                                </p>
+                                <a href="" class="solution-section-s3-item-details-link">More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="solution-section-s3-item">
+                        <div class="solution-section-s3-item-wpr">
+                            <div class="solution-section-s3-item-name">
+                                <h3 class=solution-section-s3-item-name-txt>growth strategy</h3>
+                            </div>
+                            <div class="solution-section-s3-item-imgw">
+                                <div class="solution-section-s3-item-img"></div>
+                            </div>
+                            <div class="solution-section-s3-item-desc">
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                                </p>
+                                <a href="" class="solution-section-s3-item-details-link">More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
 
 
 
     <!-- Section start -->
     <section class="section-ldark section">
         <div class="section-container">
-            <div class="service-form-section hf">
+            <div class="service-form-section mhf">
                 <div class="service-form">
                     <form class="service-form-wrapper">
                         <table class="service-form-table">
@@ -287,6 +513,7 @@ include_once './config.php';
         </div>
     </section>
     <!--/Section End -->
+
 
 
 

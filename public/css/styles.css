@@ -9,15 +9,16 @@
 
 :root {
   --color-grey: #757575;
-  --color-theme: #ff7f00;
+  --color-theme: #e67300;
   --color-dark: #212121;
   --color-footer: transparent;
+  --color-bg: #f7f7f7;
 }
 
 body {
   width: 100%;
   min-height: 100vh;
-  background-color: #f7f7f7;
+  background-color: var(--color-bg);
   font-family: "Montserrat", sans-serif;
 }
 
@@ -45,7 +46,7 @@ body {
 .section-container {
   max-width: 1300px;
   margin: auto;
-  padding: 10px;
+  padding: 10px 2%;
 }
 
 /* uppercase */
@@ -77,6 +78,10 @@ body {
 .ltc {
   color: var(--color-grey);
 }
+/* lite text color */
+.tcw {
+  color: #fff;
+}
 
 /* position replative */
 .pr {
@@ -91,6 +96,9 @@ body {
 .hf {
   height: 100vh;
 }
+.mhf {
+  min-height: 100vh;
+}
 
 /* Form input */
 .form-input {
@@ -98,6 +106,41 @@ body {
   padding: 8px 6px;
   border: 1px solid #eee;
   outline: none;
+}
+
+
+.menu{
+    min-height: 100vh;
+    margin-top: 70px;
+    
+}
+.menu-container{
+    width: 100%;
+    padding: 20px 0px;
+    background-color: #fff;
+}
+.menu-nav-items-wpr {
+  display: block;
+  font-size: 0px;
+  width: 100%;
+  text-align: center;
+}
+.menu-nav-item{
+  font-size: 18px;
+  display: inline-block;
+  color: #000;
+}
+.menu-nav-item a{
+  font-size: 18px;
+  color: #000;
+  padding: 10px;
+  text-decoration: none;
+}
+.menu-nav-items-wpr .menu-nav-item:first-child a{
+  border-left: none;
+}
+.menu-nav-item a{
+  border-left: 2px solid var(--color-theme);
 }
 
 .header {
@@ -121,6 +164,7 @@ body {
 .header-logo {
   width: 100%;
   font-size: 0px;
+  vertical-align: top !important;
 }
 
 .header-logo img {
@@ -162,6 +206,24 @@ body {
 }
 .header-menu-btn:hover div:last-child {
   top: 2px;
+}
+
+.header-logo a:after {
+  /* content: ""; */
+  width: 1px;
+  height: 1px;
+  display: table;
+  margin: auto;
+  position: absolute;
+  bottom: 77%;
+  left: 50%;
+  box-shadow: 0px 0px 91px 45px #fff;
+  z-index: -1;
+}
+
+.header-logo a {
+  display: table;
+  position: absolute;
 }
 
 .earth-box {
@@ -367,6 +429,205 @@ body {
   width: 100%;
 }
 
+
+/* solutions start */
+.solution-section{
+  padding: 50px 0px;
+}
+.solution-section-s1-items{
+  display: block;
+  font-size: 0px;
+  margin: 0px -10px;
+}
+.solution-section-s1-item{
+  padding: 10px;
+  display: inline-block;
+  font-size: 16px;
+  width: 25%;
+  margin: 10px 0px;
+}
+.solution-section-s1-item:hover{
+  box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 58%);
+  background-color: #fff;
+  cursor: pointer;
+}
+.solution-section-s1-item-wpr{
+  position: relative;
+  /* padding: 10px; */
+}
+.solution-section-s1-item-wpr::after {
+  content: "";
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  height: 10px;
+  background-color: var(--color-theme);
+  display: block;
+}
+
+.solution-section-s1-item-name-txt{
+  padding: 15px 0px;
+  color: var(--color-theme);
+}
+.solution-section-s1-item-imgw{
+  padding-top: 50%;
+  position: relative;
+}
+.solution-section-s1-item-img{
+  /* background-image: url(../images/man-with-chart-his-hand_1134-330.jpg); */
+  background-color: #eee;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.solution-section-s1-item-desc p{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  margin: 10px 0px;
+}
+.solution-section-s1-item-details-link{
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-theme);
+  color:var(--color-theme);
+  font-weight: 600;
+}
+.solution-section-s1-item-details-link::after{
+  /* content: ">>"; */
+  /* font-size: 18px; */
+}
+
+
+
+
+
+.solution-section-s2{
+  margin: 20px 0px;
+}
+.solution-section-s2-wpr{
+  width: 100%;
+  border: 5px solid var(--color-theme);
+  padding: 25px 20px;
+  /* background-color: #fff; */
+  position: relative;
+}
+
+.solution-section-s2-title {
+  position: absolute;
+  top: -18px;
+  text-align: center;
+  width: 100%;
+
+}
+.solution-section-s2-title span {
+  background-color: var(--color-bg);
+  display: inline-block;
+  padding: 0px 10px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.solution-section-s2-item .solution-section-s2-item-img{
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+.solution-section-s2-items{
+  display: block;
+  font-size: 0px;
+  margin: 0px -10px;
+}
+.solution-section-s2-item{
+  padding: 10px;
+  display: inline-block;
+  font-size: 16px;
+  width: 25%;
+  margin: 10px 0px;
+  text-align: center;
+  /* white-space: nowrap; */
+  vertical-align: top ;
+}
+
+
+
+.solution-section-s3-items{
+  display: block;
+  font-size: 0px;
+  margin: 100px -10px;
+}
+.solution-section-s3-item{
+  padding: 10px;
+  display: inline-block;
+  font-size: 16px;
+  width: 25%;
+  margin: 10px 0px;
+}
+.solution-section-s3-item:hover{
+  box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 58%);
+  background-color: #fff;
+  cursor: pointer;
+}
+.solution-section-s3-item-wpr{
+  position: relative;
+  /* padding: 10px; */
+}
+.solution-section-s3-item-wpr::after {
+  content: "";
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  height: 10px;
+  background-color: var(--color-theme);
+  display: block;
+}
+
+.solution-section-s3-item-name-txt{
+  padding: 15px 0px;
+  color: var(--color-theme);
+}
+.solution-section-s3-item-imgw{
+  padding-top: 50%;
+  position: relative;
+}
+.solution-section-s3-item-img{
+  /* background-image: url(../images/man-with-chart-his-hand_1134-330.jpg); */
+  background-color: #eee;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.solution-section-s3-item-desc p{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  margin: 10px 0px;
+}
+.solution-section-s3-item-details-link{
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-theme);
+  color:var(--color-theme);
+  font-weight: 600;
+}
+.solution-section-s3-item-details-link::after{
+  /* content: ">>"; */
+  /* font-size: 18px; */
+}
+/* solutions end */
+
 /* Footer Start*/
 footer {
   width: 100%;
@@ -474,6 +735,14 @@ footer .footer-col {
     width: 100%;
     padding: 30px 0px;
   }
+
+  
+  .solution-section-s1-item{
+    width: 33.33%;
+  }
+  .solution-section-s3-item{
+    width: 33.33%;
+  }
 }
 
 @media (max-width: 768px) {
@@ -498,5 +767,37 @@ footer .footer-col {
   .service-list-items {
     width: 50%;
     font-size: 3.7vw;
+  }
+
+  .service-form-section .service-form-table,
+  .service-form-input-box {
+    display: block;
+    width: 100%;
+    margin-top: 25px;
+  }
+  .service-form-section .service-form-table tbody {
+    display: block;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .service-form-section .service-form-input-label,
+  .service-form-section .service-form-input-in {
+    display: block;
+    width: 100%;
+    padding: 5px 10px;
+  }
+
+  .solution-section-s1-item{
+    width: 50%;
+  }
+  .solution-section-s3-item{
+    width: 50%;
+  }
+
+  .solution-section-s2-item{
+    width: 50%;
+    white-space:normal;
+    height: 150px;
   }
 }
