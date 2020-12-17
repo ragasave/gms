@@ -120,7 +120,7 @@ body {
   left: 0px;
   width: 100%;
   z-index: 0;
-  overflow-y: auto;
+  overflow: hidden;
 }
 body.menu-open .menu {
   min-height: 100vh;
@@ -131,7 +131,7 @@ body.menu-open .menu {
 }
 .menu-container {
   width: 100%;
-  padding: 20px 0px;
+  padding: 20px 0px 0px 0px;
   background-color: #fff;
 }
 .menu-nav-items-wpr {
@@ -910,5 +910,11 @@ footer .footer-col {
 
   .menu-cards-item {
     width: 50%;
+  }
+  body{
+    zoom: 0.7;
+  }
+  body.menu-open{
+    overflow: hidden;
   }
 }
