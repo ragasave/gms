@@ -173,6 +173,12 @@ function subTitleAnimation(){
             index++;
         }
     }, 300);
-    
-
 }
+
+
+
+// menu
+document.querySelector('.header-menu-btn').addEventListener('click', function() {
+    let menu = document.querySelector('body');
+    menu.classList.toggle('menu-open');
+})
