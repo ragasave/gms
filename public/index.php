@@ -1,149 +1,12 @@
-<?php
-include_once './config.php';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?= $config['seo_home_title'] ?></title>
-    <link rel="stylesheet" href="css/styles.css">
+    <?php include_once('./../head.php'); ?>
 </head>
 
 <body>
-
-    <header class="header">
-        <div class="header-wrapper">
-            <div class="header-logo">
-                <a href="http://">
-                    <img src="./images/logo-md.png" alt="" srcset="">
-                </a>
-            </div>
-            <div class="header-menu-toggler">
-                <div class="header-menu-btn">
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                </div>
-            </div>
-        </div>
-    </header>
-
-
-
-    <div class="menu">
-        <div class="menu-container">
-            <div class="menu-nav-items">
-                <ul class="menu-nav-items-wpr">
-                    <li class="menu-nav-item">
-                        <a href="">About Us</a>
-                    </li>
-                    <li class="menu-nav-item">
-                        <a href="">Our Services</a>
-                    </li>
-                    <li class="menu-nav-item">
-                        <a href="">Our Client</a>
-                    </li>
-                    <li class="menu-nav-item">
-                        <a href="">Investor Lobby</a>
-                    </li>
-                    <li class="menu-nav-item">
-                        <a href="">News</a>
-                    </li>
-                    <li class="menu-nav-item">
-                        <a href="">Blogs</a>
-                    </li>
-                    <li class="menu-nav-item">
-                        <a href="">Careers</a>
-                    </li>
-                    <li class="menu-nav-item">
-                        <a href="">Contact Us</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="menu-cards-items">
-                <div class="menu-cards-items-wpr">
-                    <div class="menu-cards-item">
-                        <div class="menu-cards-item-wpr">
-                            <div class="menu-cards-item-title">
-                                <p>NewAge</p>
-                                <h2>Realty</h2>
-                            </div>
-                            <div class="menu-cards-item-content">
-                                <ul>
-                                    <li><a target="_blank" href="https://newagerealty.in/blog">Blog</a></li> 
-                                    <li><a target="_blank" href="https://newagerealty.in/">Home</a></li> 
-                                    <li><a target="_blank" href="https://newagerealty.in/vr-expo/desk">VR Expo</a></li> 
-                                    <li><a target="_blank" href="https://newagerealty.in/about-us">About Us</a></li>
-                                    <li><a target="_blank" href="https://newagerealty.in/contact-us">Contact Us</a></li> 
-                                    <li><a target="_blank" href="https://newagerealty.in/services">Our Services</a></li> 
-                                    <li><a target="_blank" href="https://newagerealty.in/project">Marketed Projects</a></li> 
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="menu-cards-item">
-                        <div class="menu-cards-item-wpr">
-                            <div class="menu-cards-item-title">
-                                <p>NewAge</p>
-                                <h2>Solar</h2>
-                            </div>
-                            <div class="menu-cards-item-content">
-                                <h1>Coming Soon</h1>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="menu-cards-item">
-                        <div class="menu-cards-item-wpr">
-                            <div class="menu-cards-item-title">
-                                <p>NewAge</p>
-                                <h2>Digital</h2>
-                            </div>
-                            <div class="menu-cards-item-content">
-                                <h1>Coming Soon</h1>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="menu-cards-item">
-                        <div class="menu-cards-item-wpr">
-                            <div class="menu-cards-item-title">
-                                <p>NewAge</p>
-                                <h2>Coming Soon</h2>
-                            </div>
-                            <div class="menu-cards-item-content">
-                                <h1>Coming Soon</h1>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="menu-cards-item">
-                        <div class="menu-cards-item-wpr">
-                            <div class="menu-cards-item-title">
-                                <p>NewAge</p>
-                                <h2>Coming Soon</h2>
-                            </div>
-                            <div class="menu-cards-item-content">
-                                <h1>Coming Soon</h1>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="menu-cards-item">
-                        <div class="menu-cards-item-wpr">
-                            <div class="menu-cards-item-title">
-                                <p>NewAge</p>
-                                <h2>Coming Soon</h2>
-                            </div>
-                            <div class="menu-cards-item-content">
-                                <h1>Coming Soon</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <?php include_once('./../header.php'); ?>
 
 
     <section class="section">
@@ -590,69 +453,7 @@ include_once './config.php';
 
 
 
-
-    <!--Footer Start -->
-    <footer class="footer">
-        <div class="section-container">
-            <p>Lets deliver the right solution for your business</p>
-            <div class="footer-wrapper">
-                <br>
-                <br>
-                <div class="footer-cols">
-                    <div class="footer-col">
-                        <h3>Meet Success</h3>
-                        <ul class="footer-items">
-                            <li><a href="">About Us</a></li>
-                            <li><a href="">career opportunities</a></li>
-                            <li><a href="">frequently asked questions</a></li>
-                            <li><a href="">our core values</a></li>
-                            <li><a href="">who we are</a></li>
-                            <li><a href="">contact us</a></li>
-                        </ul>
-                    </div>
-                    <div class="footer-col">
-                        <h3>Services</h3>
-                        <ul class="footer-items">
-                            <li><a href="">opportunity seizing</a></li>
-                            <li><a href="">sales support</a></li>
-                            <li><a href="">local representation</a></li>
-                            <li><a href="">representative Offices</a></li>
-                            <li><a href="">wholly owned subsidiary</a></li>
-                        </ul>
-                    </div>
-                    <div class="footer-col">
-                        <h3>Newsletter</h3>
-                        <ul class="footer-items">
-                            <li>
-                                <div class="footer-input-box">
-                                    <input placeholder="Your email address" type="text" class="footer-input">
-                                </div>
-                            </li>
-                            <li>
-                                <h3>Follow Us</h3>
-                            </li>
-                            <li>
-
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-top-border">
-
-        </div>
-    </footer>
-    <!--/Footer End-->
-
-
-
-
-    <section class="section-ldark">
-        <br>
-        <br>
-        <br>
-    </section>
+    <?php include_once('./../footer.php'); ?>
 
 
     <script>
@@ -662,7 +463,9 @@ include_once './config.php';
     <script src="./js/openings.js"></script>
     <script src="./js/countries.js"></script>
     <script src="./js/miniature.earth.js"></script>
-    <script src="./js/main.js"></script>
+    <script src="./js/globe-loaded.js"></script>
+    
+    <?php include_once('./../script.php');?> 
 </body>
 
 </html>
