@@ -10,8 +10,9 @@
 
     <div class="top-banner">
         <div class="top-banner-img" style="background-image: url('./images/about us banner.jpg');">
-
+            
         </div>
+        <a href="" class="top-banner-btn"></a>
     </div>
 
 
@@ -88,6 +89,18 @@
 
 
     <style>
+
+        .top-banner-btn {
+            position: absolute;
+            display: block;
+            width: 17.7%;
+            padding-top: 3.5%;
+            left: 12.5%;
+            top: 74%;
+        }
+        .top-banner-btn:hover {
+            background-color: #eeeeee2e;
+        }
         .xx-about-s1-section{
             background-color: #fff;
         }
