@@ -139,7 +139,7 @@
         .xx-career-items {
             display: block;
             font-size: 0px;
-            margin: 50px 0px;
+            margin-top: 50px;
         }
 
         .xx-career-item {
@@ -219,11 +219,6 @@
             border-bottom: 1px solid var(--color-theme);
             color: var(--color-theme);
             font-weight: 600;
-        }
-
-        .xx-career-item-details-link::after {
-            /* content: ">>"; */
-            /* font-size: 18px; */
         }
 
 

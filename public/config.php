@@ -23,6 +23,13 @@ $config = [
             "lat" => 19.07,
             "lng" => 76.8777,
         ],
+        [
+            "name" => "Facebook - Menlo Park",
+            "country" => "1 Hacker Way, Menlo Park, CA 94025, United States",
+            "description" => "Menlo Park is a city located at the eastern edge of San Mateo County within the San Francisco Bay Area of California in the United States. It is bordered by San Francisco Bay on the north and east; East Palo Alto, Palo Alto, and Stanford to the south; and Atherton, North Fair Oaks, and Redwood City to the west.",
+            "lat" => 37.4858175,
+            "lng" => -122.148005,
+        ],
     ]
 ];
 ?>
