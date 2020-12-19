@@ -23,7 +23,7 @@
                         <a href="./about-us.php">About Us</a>
                     </li>
                     <li class="menu-nav-item">
-                        <a href="">Our Services</a>
+                        <a href="./services.php">Our Services</a>
                     </li>
                     <li class="menu-nav-item">
                         <a href="">Our Client</a>
@@ -35,10 +35,10 @@
                         <a href="">News</a>
                     </li>
                     <li class="menu-nav-item">
-                        <a href="">Blogs</a>
+                        <a href="./blog.php">Blogs</a>
                     </li>
                     <li class="menu-nav-item">
-                        <a href="">Careers</a>
+                        <a href="./careers.php">Careers</a>
                     </li>
                     <li class="menu-nav-item">
                         <a href="./contact-us.php">Contact Us</a>

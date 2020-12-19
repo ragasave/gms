@@ -37,7 +37,7 @@
     </section>
 
 
-    <section class="section-ldark subtitle-section section">
+    <section class="section-ldark mcw subtitle-section section">
         <div class="section-container subtitle-container">
             <div class="cc">
                 <div class="ccw">
@@ -180,7 +180,7 @@
 
     
 
-    <section class="section-ldark section">
+    <section class="section-ldark mcw section">
         <div class="section-container">
             <br>
             <h1 class="tcw tc">Let's deliver the right solution for your business.</h1>
@@ -367,7 +367,7 @@
 
 
     <!-- Section start -->
-    <section class="section-ldark section">
+    <section class="section-ldark mcw section">
         <div class="section-container">
             <div class="service-form-section mhf">
                 <div class="service-form">

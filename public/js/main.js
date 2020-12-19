@@ -8,9 +8,10 @@ window.addEventListener('scroll', function(e) {
     // }
     let sections = document.elementsFromPoint(0, 40);
     let section = sections.find(function(elem) {
-        return elem.localName == "section"
+        return elem.classList.contains("mcw");
     });
-    if(section && section.classList.contains('section-ldark')){
+    // if(section && section.classList.contains('mcw')){
+    if(section){
         document.querySelector('body').classList.add('hbw');
     }else{
         document.querySelector('body').classList.remove('hbw');
@@ -68,3 +69,10 @@ document.querySelector('.header-menu-btn').addEventListener('click', function() 
     let menu = document.querySelector('body');
     menu.classList.toggle('menu-open');
 })
+
+
+document.querySelector('body').addEventListener('click', function(e){
+    if(e.target.classList.contains('js-pd')){
+        e.preventDefault()
+    }
+});
