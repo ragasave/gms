@@ -20,7 +20,7 @@
                     <div class="footer-col">
                         <h3>Services</h3>
                         <ul class="footer-items">
-                            <li><a href="">opportunity seizing</a></li>
+                            <li><a href="">opportunity Sizing</a></li>
                             <li><a href="">sales support</a></li>
                             <li><a href="">local representation</a></li>
                             <li><a href="">representative Offices</a></li>

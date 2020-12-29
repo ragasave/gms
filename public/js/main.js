@@ -1,3 +1,5 @@
+
+document.querySelector('.menu').style.display = '';
 window.addEventListener('scroll', function(e) {
     // let h = window.innerHeight,
     // y = window.scrollY,
@@ -6,16 +8,18 @@ window.addEventListener('scroll', function(e) {
     // if(y > h && y < h*2){
         
     // }
-    let sections = document.elementsFromPoint(0, 40);
-    let section = sections.find(function(elem) {
-        return elem.classList.contains("mcw");
-    });
-    // if(section && section.classList.contains('mcw')){
-    if(section){
-        document.querySelector('body').classList.add('hbw');
-    }else{
-        document.querySelector('body').classList.remove('hbw');
-    }
+
+
+    // let sections = document.elementsFromPoint(0, 40);
+    // let section = sections.find(function(elem) {
+    //     return elem.classList.contains("mcw");
+    // });
+    // // if(section && section.classList.contains('mcw')){
+    // if(section){
+    //     document.querySelector('body').classList.add('hbw');
+    // }else{
+    //     document.querySelector('body').classList.remove('hbw');
+    // }
 
 
     // title section

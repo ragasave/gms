@@ -15,7 +15,7 @@
             </div>
         </div>
     </header>
-    <div class="menu">
+    <div class="menu" style="display:none;">
         <div class="menu-container">
             <div class="menu-nav-items">
                 <ul class="menu-nav-items-wpr">
@@ -28,15 +28,15 @@
                     <li class="menu-nav-item">
                         <a href="">Our Client</a>
                     </li>
-                    <li class="menu-nav-item">
+                    <!-- <li class="menu-nav-item">
                         <a href="">Investor Lobby</a>
-                    </li>
-                    <li class="menu-nav-item">
+                    </li> -->
+                    <!-- <li class="menu-nav-item">
                         <a href="">News</a>
-                    </li>
-                    <li class="menu-nav-item">
+                    </li> -->
+                    <!-- <li class="menu-nav-item">
                         <a href="./blog.php">Blogs</a>
-                    </li>
+                    </li> -->
                     <li class="menu-nav-item">
                         <a href="./careers.php">Careers</a>
                     </li>
@@ -88,7 +88,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="menu-cards-item">
+                    <!-- <div class="menu-cards-item">
                         <div class="menu-cards-item-wpr">
                             <div class="menu-cards-item-title">
                                 <p>NewAge</p>
@@ -120,7 +120,7 @@
                                 <h1>Coming Soon</h1>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

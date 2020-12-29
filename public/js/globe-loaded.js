@@ -49,6 +49,7 @@
 
         box.classList.add('show-place-details');
         writeCompanydetials(overlay.data);
+        event.stopPropagation();
         return;
 
         document.getElementById('breaking-news-' + newsId).classList.add('news-highlight');
@@ -58,7 +59,6 @@
 
         earthObj.goTo(overlay.location, { duration: 250, relativeDuration: 70 });
 
-        event.stopPropagation();
     }
 
 
@@ -88,6 +88,7 @@
 
         heading = new TypeIt(".xx-dist-name", {
             strings: data.name,
+            speed : 1,
             afterComplete: async (step, instance) => {
                 instance.destroy();
 
@@ -95,13 +96,14 @@
                 subHeadingElem.classList.remove('dh')
                 subHeading = new TypeIt(".xx-country-name", {
                     strings: data.country,
-
+                    speed : 1,
                     // paragraph
                     afterComplete: async (step, instance) => {
                         instance.destroy();
                         descriptionElem.classList.remove('dh')
                         description = new TypeIt(".xx-dist-description", {
                             strings: data.description,
+                            speed : 2,
                             afterComplete: async (step, instance) => {
                                 instance.destroy();
                             },
