@@ -208,68 +208,42 @@
             <div class="solution-section-s1">
                 <div class="solution-section-s1-items">
                     <div class="solution-section-s1-item">
-                        <div class="solution-section-s1-item-wpr">
-                            <div class="solution-section-s1-item-name">
-                                <h3 class=solution-section-s1-item-name-txt>growth strategy</h3>
+                        <a href="http://">
+                            <div class="solution-section-s1-item-wpr">
+                                <div class="solution-section-s1-item-name">
+                                    <h3 class=solution-section-s1-item-name-txt>Mr. Prahlad Kakar</h3>
+                                </div>
+                                <div class="solution-section-s1-item-imgw solution-section-s1-item-imgw-s">
+                                    <div class="solution-section-s1-item-img" style="background-image:url(images/98765.jpeg)"></div>
+                                </div>
+                                <div class="solution-section-s1-item-desc">
+                                    <p></p>
+                                    <!-- <p>
+                                    Prahlad Kakar started his career in advertising in the early ’70 ‘s in ASP Delhi. He then moved on to gain experience in feature films with his mentor and leading filmmaker Shyam Benegal. After assisting him on renowned features like “Ankur”, “Nishant”, “Manthan” and “Bhumika” between 1974 to 1977, he moved on to become an independent film director in the field of Advertising. He is the Founder and Director of Genesis Film Production Pvt. Ltd., one of the leading production houses in India. Prahlad virtually invented a genre of television advertising in the years that followed. He has ruled the advertising world with his brand of irreverent humor, memorable brand building campaigns and has created Award winning commercials for the most reputed Corporates and agencies in India and the Asia Pacific region for over 4 decades.
+                                    </p> -->
+                                    <!-- <a href="" class="solution-section-s1-item-details-link">More</a> -->
+                                </div>
                             </div>
-                            <div class="solution-section-s1-item-imgw">
-                                <div class="solution-section-s1-item-img"></div>
-                            </div>
-                            <div class="solution-section-s1-item-desc">
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                                </p>
-                                <a href="" class="solution-section-s1-item-details-link">More</a>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="solution-section-s1-item">
-                        <div class="solution-section-s1-item-wpr">
-                            <div class="solution-section-s1-item-name">
-                                <h3 class=solution-section-s1-item-name-txt>growth strategy</h3>
+                        <a href="http://">
+                            <div class="solution-section-s1-item-wpr">
+                                <div class="solution-section-s1-item-name">
+                                    <h3 class=solution-section-s1-item-name-txt>Mr. NAGRAJ NALLU</h3>
+                                </div>
+                                <div class="solution-section-s1-item-imgw solution-section-s1-item-imgw-s">
+                                    <div class="solution-section-s1-item-img" style="background-image:url(images/founder.jpg)"></div>
+                                </div>
+                                <div class="solution-section-s1-item-desc">
+                                    <p></p>
+                                    <!-- <p>
+                                    Mr. Nagraj Nallu (MBA in Marketing from IBM, Mumbai) a successful entrepreneur and highly experienced marketing professional is the Founder and Chief Executive Officer (CEO) of NewAge Realty. With a demonstrated history of working in consumer durable sector, banking and real estate industry, he started NewAge Realty in 2012 with an agenda of changing the state of affairs of Real Estate industry in India. Mr. Nallu innovated the Real Estate selling approach via call centres while working with Times of India. Skilled in Negotiation, Business Planning, Sales, Customer Relationship Management (CRM) and Team Building he is also one of the pioneers to sell Indian properties in International market.
+                                    </p> -->
+                                    <!-- <a href="" class="solution-section-s1-item-details-link">More</a> -->
+                                </div>
                             </div>
-                            <div class="solution-section-s1-item-imgw">
-                                <div class="solution-section-s1-item-img"></div>
-                            </div>
-                            <div class="solution-section-s1-item-desc">
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                                </p>
-                                <a href="" class="solution-section-s1-item-details-link">More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="solution-section-s1-item">
-                        <div class="solution-section-s1-item-wpr">
-                            <div class="solution-section-s1-item-name">
-                                <h3 class=solution-section-s1-item-name-txt>growth strategy</h3>
-                            </div>
-                            <div class="solution-section-s1-item-imgw">
-                                <div class="solution-section-s1-item-img"></div>
-                            </div>
-                            <div class="solution-section-s1-item-desc">
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                                </p>
-                                <a href="" class="solution-section-s1-item-details-link">More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="solution-section-s1-item">
-                        <div class="solution-section-s1-item-wpr">
-                            <div class="solution-section-s1-item-name">
-                                <h3 class=solution-section-s1-item-name-txt>growth strategy</h3>
-                            </div>
-                            <div class="solution-section-s1-item-imgw">
-                                <div class="solution-section-s1-item-img"></div>
-                            </div>
-                            <div class="solution-section-s1-item-desc">
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                                </p>
-                                <a href="" class="solution-section-s1-item-details-link">More</a>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -463,12 +437,45 @@
 
 
 
+    <section class="section-ldark mcw section">
+        <div class="section-container">
+            <br>
+            <h1 class="tcw tc">We Support Make In India</h1>
+            <br>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="section-container">
+            <div>
+
+            </div>
+        </div>
+    </section>
+
 
 
     <!-- Section start -->
-    <section class="section-tcbg mcw section">
+    <section class="mcw section">
         <div class="section-container">
-            <div class="service-form-section mhf">
+            <div class="service-form-section">
+                <div class="service-explaination d-tab">
+                    <!-- <h2 class="tc">We Support Make In India</h2> -->
+                    <br>
+                    <img src="images/mii.jpg" alt="" style="max-width:300px;margin:auto;display:table">
+                    <br>
+                    <br>
+                    <p>
+                        Our primary goal is to provide Indian manufacturers with the best export solutions and sell the highest quality “Make in India” brands in all major markets around the world.
+                        <br>
+                        <br>
+                        We operate in 52 countries and territories in America, Europe, Australia and Asia & Pacific, and partner with distributors and retail chains across all major channels.
+                    </p>
+                    <br>
+                    <p>
+                    We focus on long term strategies and help you establish long-term relationships with reliable trading partners in all major international markets. We provide ongoing sales and operational support and help you navigate the complex processes associated with exporting and dealing with international buyers and foreign regulatory bodies.
+                    </p>
+                </div>
                 <div class="service-form">
                     <form class="service-form-wrapper">
                         <table class="service-form-table">
@@ -512,8 +519,8 @@
                         </table>
                     </form>
                 </div>
-                <div class="service-explaination">
-                    <h2 class="tc">We Supports To Make In India</h2>
+                <div class="service-explaination d-desktop">
+                    <!-- <h2 class="tc">We Support Make In India</h2> -->
                     <br>
                     <img src="images/mii.jpg" alt="" style="max-width:300px;margin:auto;display:table">
                     <br>
@@ -594,6 +601,10 @@
             background-color: var(--color-primary);
         }
 
+        .solution-section-s1-item-imgw-s {
+            padding-top: 90%;
+        }
+
         @media (max-width:1050px){
             .xx-wswo-item:first-child{
                 width: 50%;
@@ -616,6 +627,7 @@
                 padding-left: 0px;
             }
         }
+
     </style>
 </body>
 </html>
