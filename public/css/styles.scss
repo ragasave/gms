@@ -42,8 +42,12 @@ input[type="submit"] {
   outline: none;
   font-family: inherit;
   font-weight: 600;
+  cursor: pointer;
 }
 
+.lh {
+  line-height: 25px;
+}
 body {
   width: 100%;
   min-height: 100vh;
@@ -1075,8 +1079,11 @@ footer .footer-col {
 }
 
 
-.d-desktop{
-  display: block;
+.d-tab{
+  display: none !important;
+}
+.d-mob{
+  display: none !important;
 }
 @media (min-width: 1100px) {
   .service-list-items {
@@ -1107,6 +1114,14 @@ footer .footer-col {
   .service-list-items {
     width: 25%;
     font-size: 1.6vw;
+  }
+  
+  .d-tab{
+    display: unset !important;
+  }
+  
+  .d-desktop{
+    display: none !important;
   }
 
   /* service form section */
@@ -1234,4 +1249,11 @@ footer .footer-col {
     overflow: auto;
   }
 
+}
+
+
+@media (max-width: 680px) {
+  .d-mob{
+    display:unset !important;
+  }
 }
