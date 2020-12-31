@@ -7,7 +7,7 @@
                 <br>
                 <div class="footer-cols">
                     <div class="footer-col">
-                        <h3>Meet Success</h3>
+                        <h3>Site Map</h3>
                         <ul class="footer-items">
                             <li><a href="">About Us</a></li>
                             <li><a href="">career opportunities</a></li>
