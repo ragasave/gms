@@ -592,7 +592,7 @@ body.menu-open .header-menu-btn div:nth-child(3) {
   background-repeat: no-repeat;
   background-position: center center;
   background-image: url(../images/company-location.png);
-  background-size: 80%;
+  background-size: 71%;
   cursor: pointer;
   pointer-events: all;
   -webkit-transition: all 1s;
