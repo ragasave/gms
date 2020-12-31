@@ -16,14 +16,14 @@
     </div>
 
 
-    <section class=" section page-navigate-section">
+    <!-- <section class=" section page-navigate-section">
         <div class="section-container">
             <br>
             <span class="nvgt-home">Home </span> <span class="nvgt-home">Our Teams</span> <span class="nvgt-current">Mr. Nagraj Nallu</span>
             <br>
             <br>
         </div>
-    </section>
+    </section> -->
 
     <section class="section xx--section">
         <br>

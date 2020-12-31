@@ -198,7 +198,7 @@
     <section class="section-ldark mcw section">
         <div class="section-container">
             <br>
-            <h1 class="tcw tc">Our Teams</h1>
+            <h1 class="tcw tc">Our Team</h1>
             <br>
         </div>
     </section>
@@ -212,7 +212,7 @@
                             <a href="prahlad-kakar.php">
                                 <div class="solution-section-s1-item-wpr">
                                     <div class="solution-section-s1-item-name">
-                                        <h3 class=solution-section-s1-item-name-txt>Mr. Prahlad Kakar</h3>
+                                        <h3 class="solution-section-s1-item-name-txt tc">Mr. Prahlad Kakar</h3>
                                     </div>
                                     <div class="solution-section-s1-item-imgw solution-section-s1-item-imgw-s">
                                         <div class="solution-section-s1-item-img" style="background-image:url(images/98765.jpeg)"></div>
@@ -233,7 +233,7 @@
                             <a href="nagraj-nallu.php">
                                 <div class="solution-section-s1-item-wpr">
                                     <div class="solution-section-s1-item-name">
-                                        <h3 class=solution-section-s1-item-name-txt>Mr. NAGRAJ NALLU</h3>
+                                        <h3 class="solution-section-s1-item-name-txt tc">Mr. Nagraj Nallu</h3>
                                     </div>
                                     <div class="solution-section-s1-item-imgw solution-section-s1-item-imgw-s">
                                         <div class="solution-section-s1-item-img" style="background-image:url(images/founder.jpg)"></div>
