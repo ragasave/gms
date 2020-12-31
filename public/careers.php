@@ -34,89 +34,40 @@
                 We're available from Monday to Friday to take your call.
             </h3>
             <div class="">
-
+                <br>
+                <br>
+                <hr>
+                <br>
                 <div class="xx-career">
-                    <div class="xx-career-items">
-                        <div class="xx-career-item">
-                            <div class="xx-career-item-wpr">
-                                <div class="xx-career-item-name">
-                                    <h3 class=xx-career-item-name-txt>growth strategy</h3>
+                    <div class="xx-career-form">
+                        <div class="xx-career-form-wrapper">
+                            <br>
+                            <h2 class="tc">Send us Resume</h2>
+                            <br>
+                            <form action="" method="post">
+                                <div class="xx-form-item">
+                                    <input type="text" placeholder="First Name" name="fname">
                                 </div>
-                                <div class="xx-career-item-imgw">
-                                    <div class="xx-career-item-img" style="background-image: url(./images/18771.jpg);"></div>
+                                <div class="xx-form-item">
+                                    <input type="text" placeholder="Last Name" name="lname">
                                 </div>
-                                <div class="xx-career-item-desc">
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                                    </p>
-                                <a href="#" class="read-more-link js-pd" data-target="">Read More</a>
+                                <div class="xx-form-item">
+                                    <input type="email" placeholder="Email" name="emal">
                                 </div>
-                            </div>
-                        </div>
-                        <div class="xx-career-item">
-                            <div class="xx-career-item-wpr">
-                                <div class="xx-career-item-name">
-                                    <h3 class=xx-career-item-name-txt>growth strategy</h3>
+                                <div class="xx-form-item">
+                                    <input placeholder="Phone Number" text="text" name="phone_number">
                                 </div>
-                                <div class="xx-career-item-imgw">
-                                    <div class="xx-career-item-img" style="background-image: url(./images/6671.jpg);"></div>
+                                <div class="xx-form-item w100">
+                                    <textarea placeholder="Type your message here." name="msg" id="" rows="6"></textarea>
                                 </div>
-                                <div class="xx-career-item-desc">
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                                    </p>
-                                    <a href="#" class="read-more-link js-pd" data-target="">Read More</a>
+                                <div class="xx-form-item w100">
+                                    <label for="">Select Resume</label>
+                                    <input placeholder="Select Resume" type="file" name="resume">
                                 </div>
-                            </div>
-                        </div>
-                        <div class="xx-career-item">
-                            <div class="xx-career-item-wpr">
-                                <div class="xx-career-item-name">
-                                    <h3 class=xx-career-item-name-txt>growth strategy</h3>
+                                <div class="xx-form-item-btn">
+                                    <button type="submit">Submit</button>
                                 </div>
-                                <div class="xx-career-item-imgw">
-                                    <div class="xx-career-item-img" style="background-image: url(./images/6308.jpg);"></div>
-                                </div>
-                                <div class="xx-career-item-desc">
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                                    </p>
-                                <a href="#" class="read-more-link js-pd" data-target="">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="xx-career-item">
-                            <div class="xx-career-item-wpr">
-                                <div class="xx-career-item-name">
-                                    <h3 class=xx-career-item-name-txt>growth strategy</h3>
-                                </div>
-                                <div class="xx-career-item-imgw">
-                                    <div class="xx-career-item-img" style="background-image: url(./images/4428859-01.png);"></div>
-                                </div>
-                                <div class="xx-career-item-desc">
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                                    </p>
-                                <a href="#" class="read-more-link js-pd" data-target="">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="xx-career-item">
-                            <div class="xx-career-item-wpr">
-                                <div class="xx-career-item-name">
-                                    <h3 class=xx-career-item-name-txt>growth strategy</h3>
-                                </div>
-                                <div class="xx-career-item-imgw">
-                                    <div class="xx-career-item-img" style="background-image: url(./images/19283.jpg);"></div>
-                                </div>
-                                <div class="xx-career-item-desc">
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                                    </p>
-                                <a href="#" class="read-more-link js-pd" data-target="">Read More</a>
-                                </div>
-                            </div>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -129,13 +80,15 @@
 
 
     <style>
-        :root{
+        :root {
             --color-theme: #74ab50;
             --read-more-icon: url(../images/34657-g.png);
         }
-        .xx--section-career{
+
+        .xx--section-career {
             background-color: #fff;
         }
+
         .xx-career-items {
             display: block;
             font-size: 0px;
@@ -161,9 +114,10 @@
             /* padding: 10px; */
         }
 
-        .read-more-link{
+        .read-more-link {
             padding-bottom: 10px;
         }
+
         .xx-career-item-wpr::after {
             content: "";
             width: 100%;
@@ -173,6 +127,7 @@
             background-color: var(--color-theme);
             display: block;
         }
+
         .xx-career-item-wpr::before {
             content: "";
             width: 100%;
@@ -222,11 +177,59 @@
         }
 
 
+        .xx-form-item-btn button{
+            padding: 10px 8px;
+            width: 100%;
+            border-radius: 4px;
+            background-color: #464646;
+            color: #eee;
+            border: 1px solid rgba(0,0,0,0.2);
+            outline: none;
+            font-family: inherit;
+            font-weight: 600;
+        }
+
+
+        .xx-form-item,
+        .xx-form-item-btn{
+            font-size: 16px;
+            padding: 10px 10px;
+            width: 50%;
+            display: inline-block;
+        }
+        .xx-form-item-btn{
+            width: 100%;
+            text-align: center;
+        }
+        .xx-form-item.w100{
+            width: 100%;
+        }
+        
+        .xx-form-item input,
+        .xx-form-item textarea{
+            padding: 10px 8px;
+            width: 100%;
+            border: 1px solid rgba(0,0,0,0.2);
+            outline: none;
+            border-radius: 4px;
+            font-family: inherit;
+            font-weight: 600;
+
+        }
+
+        .xx-career{
+            max-width: 600px;
+            margin: auto;
+        }
+        .xx-career form{
+            font-size: 0px;
+        }
         @media (max-width: 1000px) {
             .xx-career-item {
                 width: 33.33%;
             }
         }
+
         @media (max-width: 768px) {
             .xx-career-item {
                 width: 50%;

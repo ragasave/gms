@@ -181,7 +181,7 @@
             </p>
             <br>
                 <p>
-                    With our unique and bespoke marketing & promotion mix, we at <span class="ttc">Glocal Marketing Solutions Pvt</span>. Ltd. will make sure that your brand / product is appreciated globally and accepted locally!
+                    With our unique and bespoke marketing & promotion mix, we at <span class="ttc">Glocal Marketing Solutions Pvt. Ltd.</span> will make sure that your brand / product is appreciated globally and accepted locally!
                 </p>
             </div>
             <br>
@@ -207,43 +207,47 @@
         <div class="section-container solution-section-container">
             <div class="solution-section-s1">
                 <div class="solution-section-s1-items single-item-slider">
-                    <div class="solution-section-s1-item">
-                        <a href="http://">
-                            <div class="solution-section-s1-item-wpr">
-                                <div class="solution-section-s1-item-name">
-                                    <h3 class=solution-section-s1-item-name-txt>Mr. Prahlad Kakar</h3>
+                    <div>
+                        <div class="solution-section-s1-item">
+                            <a href="prahlad-kakar.php">
+                                <div class="solution-section-s1-item-wpr">
+                                    <div class="solution-section-s1-item-name">
+                                        <h3 class=solution-section-s1-item-name-txt>Mr. Prahlad Kakar</h3>
+                                    </div>
+                                    <div class="solution-section-s1-item-imgw solution-section-s1-item-imgw-s">
+                                        <div class="solution-section-s1-item-img" style="background-image:url(images/98765.jpeg)"></div>
+                                    </div>
+                                    <div class="solution-section-s1-item-desc">
+                                        <p></p>
+                                        <!-- <p>
+                                        Prahlad Kakar started his career in advertising in the early ’70 ‘s in ASP Delhi. He then moved on to gain experience in feature films with his mentor and leading filmmaker Shyam Benegal. After assisting him on renowned features like “Ankur”, “Nishant”, “Manthan” and “Bhumika” between 1974 to 1977, he moved on to become an independent film director in the field of Advertising. He is the Founder and Director of Genesis Film Production Pvt. Ltd., one of the leading production houses in India. Prahlad virtually invented a genre of television advertising in the years that followed. He has ruled the advertising world with his brand of irreverent humor, memorable brand building campaigns and has created Award winning commercials for the most reputed Corporates and agencies in India and the Asia Pacific region for over 4 decades.
+                                        </p> -->
+                                        <!-- <a href="" class="solution-section-s1-item-details-link">More</a> -->
+                                    </div>
                                 </div>
-                                <div class="solution-section-s1-item-imgw solution-section-s1-item-imgw-s">
-                                    <div class="solution-section-s1-item-img" style="background-image:url(images/98765.jpeg)"></div>
-                                </div>
-                                <div class="solution-section-s1-item-desc">
-                                    <p></p>
-                                    <!-- <p>
-                                    Prahlad Kakar started his career in advertising in the early ’70 ‘s in ASP Delhi. He then moved on to gain experience in feature films with his mentor and leading filmmaker Shyam Benegal. After assisting him on renowned features like “Ankur”, “Nishant”, “Manthan” and “Bhumika” between 1974 to 1977, he moved on to become an independent film director in the field of Advertising. He is the Founder and Director of Genesis Film Production Pvt. Ltd., one of the leading production houses in India. Prahlad virtually invented a genre of television advertising in the years that followed. He has ruled the advertising world with his brand of irreverent humor, memorable brand building campaigns and has created Award winning commercials for the most reputed Corporates and agencies in India and the Asia Pacific region for over 4 decades.
-                                    </p> -->
-                                    <!-- <a href="" class="solution-section-s1-item-details-link">More</a> -->
-                                </div>
-                            </div>
-                        </a>
+                            </a>
+                        </div>
                     </div>
-                    <div class="solution-section-s1-item">
-                        <a href="http://">
-                            <div class="solution-section-s1-item-wpr">
-                                <div class="solution-section-s1-item-name">
-                                    <h3 class=solution-section-s1-item-name-txt>Mr. NAGRAJ NALLU</h3>
+                    <div>
+                        <div class="solution-section-s1-item">
+                            <a href="nagraj-nallu.php">
+                                <div class="solution-section-s1-item-wpr">
+                                    <div class="solution-section-s1-item-name">
+                                        <h3 class=solution-section-s1-item-name-txt>Mr. NAGRAJ NALLU</h3>
+                                    </div>
+                                    <div class="solution-section-s1-item-imgw solution-section-s1-item-imgw-s">
+                                        <div class="solution-section-s1-item-img" style="background-image:url(images/founder.jpg)"></div>
+                                    </div>
+                                    <div class="solution-section-s1-item-desc">
+                                        <p></p>
+                                        <!-- <p>
+                                        Mr. Nagraj Nallu (MBA in Marketing from IBM, Mumbai) a successful entrepreneur and highly experienced marketing professional is the Founder and Chief Executive Officer (CEO) of NewAge Realty. With a demonstrated history of working in consumer durable sector, banking and real estate industry, he started NewAge Realty in 2012 with an agenda of changing the state of affairs of Real Estate industry in India. Mr. Nallu innovated the Real Estate selling approach via call centres while working with Times of India. Skilled in Negotiation, Business Planning, Sales, Customer Relationship Management (CRM) and Team Building he is also one of the pioneers to sell Indian properties in International market.
+                                        </p> -->
+                                        <!-- <a href="" class="solution-section-s1-item-details-link">More</a> -->
+                                    </div>
                                 </div>
-                                <div class="solution-section-s1-item-imgw solution-section-s1-item-imgw-s">
-                                    <div class="solution-section-s1-item-img" style="background-image:url(images/founder.jpg)"></div>
-                                </div>
-                                <div class="solution-section-s1-item-desc">
-                                    <p></p>
-                                    <!-- <p>
-                                    Mr. Nagraj Nallu (MBA in Marketing from IBM, Mumbai) a successful entrepreneur and highly experienced marketing professional is the Founder and Chief Executive Officer (CEO) of NewAge Realty. With a demonstrated history of working in consumer durable sector, banking and real estate industry, he started NewAge Realty in 2012 with an agenda of changing the state of affairs of Real Estate industry in India. Mr. Nallu innovated the Real Estate selling approach via call centres while working with Times of India. Skilled in Negotiation, Business Planning, Sales, Customer Relationship Management (CRM) and Team Building he is also one of the pioneers to sell Indian properties in International market.
-                                    </p> -->
-                                    <!-- <a href="" class="solution-section-s1-item-details-link">More</a> -->
-                                </div>
-                            </div>
-                        </a>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -334,60 +338,6 @@
 
 
 
-            <div class="solution-section-s4">
-                <div class="solution-section-s4-items">
-                    <div class="solution-section-s4-item solution-section-s4-item-ol">
-                        <div class="solution-section-s4-item-img">
-                            <img src="images/image-250nw-740148886.png" alt="" class="solution-section-s2-item-img">
-                        </div>
-                        <div class="solution-section-s4-item-desc">
-                        Our existing relationships with buying teams from top distributors and retailers worldwide allow us to get our clients’ products in front of key decision makers very fast. We adjust our approach and timeline based on our client’s needs and resources. We typically start with a market test to assess the growth potential based on direct feedback from our distribution partners. Based on the client’s objectives and the feedback received from distribution partners, we then target select geographies and sell to all channels and distribution partners within the selected markets.
-                        </div>
-                    </div>
-                    <br>
-                    <br>
-                    <hr>
-                    <br>
-                    <br>
-                    <div class="solution-section-s4-item solution-section-s4-item-or">
-                        <div class="solution-section-s4-item-img">
-                            <img src="images/istockphoto-1227604162-612x612.png" alt="" class="solution-section-s2-item-img">
-                        </div>
-                        <div class="solution-section-s4-item-desc">
-                        Organizations entering foreign markets can find it expensive, risky and time consuming. The ability to learn how different markets operate before setting up operations is essential for a successful market entry. We understand the local laws and regulations as well as the differences in business culture and consumer behavior. We guide our clients through all the steps of the market entry. When working with us, clients can adapt the pace of the expansion, choose only the markets and channels that best fit their business needs and minimize the overall risk of the market entry.
-                        </div>
-                    </div>
-                    <!-- <br>
-                    <br>
-                    <hr>
-                    <br>
-                    <br>
-                    <div class="solution-section-s4-item solution-section-s4-item-ol">
-                        <div class="solution-section-s4-item-img">
-                            <img src="images/download.png" alt="" class="solution-section-s2-item-img">
-                        </div>
-                        <div class="solution-section-s4-item-desc">
-                            Depending on the target market, it can take months or even several years, before an exporting company achieves a return on investment. Many exporting companies are unsuccessful in their efforts because of poor planning and limited knowledge of the international landscape, which often leads them to abandon the exporting operations altogether. We perform the market research, select the right distribution partners, access well-established expertise and trade contacts and basically sell products to distribution partners, relieving clients of all the hassles of managing foreign operations, except that of filling purchase orders.
-                        </div>
-                    </div>
-                    <br>
-                    <br>
-                    <hr>
-                    <br>
-                    <br>
-                    <div class="solution-section-s4-item solution-section-s4-item-or">
-                        <div class="solution-section-s4-item-img">
-                            <img src="images/worldwide-globe.png" alt="" class="solution-section-s2-item-img">
-                        </div>
-                        <div class="solution-section-s4-item-desc">
-                            We cover all major markets in Europe, America and Asia & Pacific. We work with all major distribution channels from wholesalers and distributors to major retail chains and online stores in all the markets we cover. Our clients can choose the markets to expand into, the channels to target, and the pace of the international expansion.
-                        </div>
-                    </div> -->
-                </div>
-            </div>
-            <br>
-            <br>
-            <br>
 
             <div class="solution-section-s2">
                 <div class="solution-section-s2-wpr">
@@ -423,7 +373,7 @@
             <br>
             <div class="solution-section-s4">
                 <div class="solution-section-s4-items">
-                    <!-- <div class="solution-section-s4-item solution-section-s4-item-ol">
+                    <div class="solution-section-s4-item solution-section-s4-item-ol">
                         <div class="solution-section-s4-item-img">
                             <img src="images/image-250nw-740148886.png" alt="" class="solution-section-s2-item-img">
                         </div>
@@ -448,7 +398,7 @@
                     <br>
                     <hr>
                     <br>
-                    <br> -->
+                    <br>
                     <div class="solution-section-s4-item solution-section-s4-item-ol">
                         <div class="solution-section-s4-item-img">
                             <img src="images/download.png" alt="" class="solution-section-s2-item-img">
@@ -761,6 +711,14 @@
             right: 0px;
         }
 
+        .solution-section-s1-item {
+            display: table;
+            margin: auto;
+        }
+        .tns-outer [data-action="stop"]{
+            display: none;
+        }
+
         @media (max-width:1050px){
             .xx-wswo-item:first-child{
                 width: 50%;
@@ -809,26 +767,39 @@
         var slider = tns({
             container: '.single-item-slider',
             items: 1,
+            center : true,
             slideBy: 'page',
             autoplay: true,
+            nav:false,
+            autoplayButton : false,
+            controls : false,
             "mouseDrag": true,
             "swipeAngle": false,
             "responsive": {
                 "550": {
                     "items": 1
                 },
-                "700": {
-                    "items": 2
-                },
-                "800": {
-                    "items": 3
-                },
-                "1100": {
-                    "items": 4
-                }
+                // "700": {
+                //     "items": 2
+                // },
+                // "800": {
+                //     "items": 3
+                // },
+                // "1100": {
+                //     "items": 4
+                // }
             }
         });
+        </script>
+        <!--
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
+        <script>
+            $('.single-item-slider').slick();
 
-    </script>
+        </script>
+        -->
 </body>
 </html>
