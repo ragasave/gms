@@ -209,10 +209,10 @@
                 <div class="solution-section-s1-items single-item-slider">
                     <div>
                         <div class="solution-section-s1-item">
-                            <a href="prahlad-Kakkar.php">
+                            <a href="prahlad-Kakar.php">
                                 <div class="solution-section-s1-item-wpr">
                                     <div class="solution-section-s1-item-name">
-                                        <h3 class="solution-section-s1-item-name-txt tc">Mr. Prahlad Kakkar</h3>
+                                        <h3 class="solution-section-s1-item-name-txt tc">Mr. Prahlad Kakar</h3>
                                     </div>
                                     <div class="solution-section-s1-item-imgw solution-section-s1-item-imgw-s">
                                         <div class="solution-section-s1-item-img" style="background-image:url(images/98765.jpeg)"></div>
@@ -220,7 +220,7 @@
                                     <div class="solution-section-s1-item-desc">
                                         <p></p>
                                         <!-- <p>
-                                        Prahlad Kakkar started his career in advertising in the early ’70 ‘s in ASP Delhi. He then moved on to gain experience in feature films with his mentor and leading filmmaker Shyam Benegal. After assisting him on renowned features like “Ankur”, “Nishant”, “Manthan” and “Bhumika” between 1974 to 1977, he moved on to become an independent film director in the field of Advertising. He is the Founder and Director of Genesis Film Production Pvt. Ltd., one of the leading production houses in India. Prahlad virtually invented a genre of television advertising in the years that followed. He has ruled the advertising world with his brand of irreverent humor, memorable brand building campaigns and has created Award winning commercials for the most reputed Corporates and agencies in India and the Asia Pacific region for over 4 decades.
+                                        Prahlad Kakar started his career in advertising in the early ’70 ‘s in ASP Delhi. He then moved on to gain experience in feature films with his mentor and leading filmmaker Shyam Benegal. After assisting him on renowned features like “Ankur”, “Nishant”, “Manthan” and “Bhumika” between 1974 to 1977, he moved on to become an independent film director in the field of Advertising. He is the Founder and Director of Genesis Film Production Pvt. Ltd., one of the leading production houses in India. Prahlad virtually invented a genre of television advertising in the years that followed. He has ruled the advertising world with his brand of irreverent humor, memorable brand building campaigns and has created Award winning commercials for the most reputed Corporates and agencies in India and the Asia Pacific region for over 4 decades.
                                         </p> -->
                                         <!-- <a href="" class="solution-section-s1-item-details-link">More</a> -->
                                     </div>
