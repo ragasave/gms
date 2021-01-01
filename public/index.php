@@ -209,7 +209,7 @@
                 <div class="solution-section-s1-items single-item-slider">
                     <div>
                         <div class="solution-section-s1-item">
-                            <a href="prahlad-Kakar.php">
+                            <a href="prahlad-kakar.php">
                                 <div class="solution-section-s1-item-wpr">
                                     <div class="solution-section-s1-item-name">
                                         <h3 class="solution-section-s1-item-name-txt tc">Mr. Prahlad Kakar</h3>
