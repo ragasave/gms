@@ -3,6 +3,11 @@
 
 <head>
     <?php include_once('./../head.php'); ?>
+    <title><?= $config['seo_prahlad_kakar_title'] ?></title>
+    <meta name="description" content="<?= $config['seo_prahlad_kakar_description'] ?>">
+    <meta name="author" content="<?= $config['seo_prahlad_kakar_author'] ?>">
+    <meta name="keywords" content="<?= $config['seo_prahlad_kakar_keywords'] ?>">
+
 </head>
 
 <body>
@@ -24,17 +29,17 @@
             <br>
         </div>
     </section> -->
-
     <section class="section xx--section">
         <br>
         <br>
         <div class="section-container lh">
             <div class="xx-out-teams">
                 <div class="xx-out-teams-img">
-                    <img src="images/98765.jpeg" alt="" srcset="">
+                    <img src="images/98765.jpeg" alt="Mr. Prahlad Kakar - Mentor & Marketing consultant at Glocal Marketing Solutions Pvt. Ltd." srcset="">
                 </div>
                 <br>
-                <!-- <h4 class="tc">Founder</h4> -->
+                <h1 class="tc">Mr. Prahlad Kakar</h1>
+                <h4 class="tc">Mentor & Marketing consultant at Glocal Marketing Solutions Pvt. Ltd.</h4>
                 <br>
                 <br>
                 <hr>

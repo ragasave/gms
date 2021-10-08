@@ -34,6 +34,25 @@ $config = [
 
 
 
+    "seo_prahlad_kakar_title" => "Prahlad Kakar | Genesis Film Production Pvt. Ltd. | Shyam Benegal | Marketing Consultant | Ad Guru",
+    "seo_prahlad_kakar_description" => "Prahlad brings enriching 38 years of experiences & enthusiasm to us as our mentor and Marketing Consultant at Glocal Marketing solutions Pvt. Ltd. His experience & passion towards advertising is definitely going to take our organization reach new heights of success.",
+    "seo_prahlad_kakar_author" => "",
+    "seo_prahlad_kakar_keywords" => "Glocal Marketing Solutions Pvt. Ltd. | Shyam Benegal | Genesis Film Production Pvt. Ltd. | Prahlad Kakar | Prahlad Kakkar | IAAFA | AAAI",
+
+
+    "seo_nagraj_nallu_title" => "Nagraj Nallu | Artha Money | Make in India | Glocal Marketing Solutions Pvt. Ltd. | Indian Companies",
+    "seo_nagraj_nallu_description" => "We are extremely delighted to have Mr. Nagraj Nallu as our CEO at Glocal Marketing Solutions Pvt. Ltd. With his skills and ability to enter the world market effortlessly, we look forward to take his experience and encourage Indian Companies, Brands, Products to reach out worldwide and support - Make in India (An initiative by Shri Narendra Modi, Prime Minister of India)",
+    "seo_nagraj_nallu_author" => "",
+    "seo_nagraj_nallu_keywords" => "Glocal Marketing Solutions Pvt. Ltd. |  Artha Money | Times of India Group | NewAge Realty | NewAge Realfin Pvt. Ltd. | Make in India | Nagraj Nallu",
+
+
+    "seo_lionel_velloz_title" => "Ace Technologies & Infrastructure Pvt. Ltd. | Art of Technologies Infrastructure Limited | Glocal Marketing Solutions Pvt. Ltd.",
+    "seo_lionel_velloz_description" => "Having over 20 years of business & management experience, we are extremely delighted to have Mr. Lionel Velloz as one of our Directors at Glocal Marketing Solutions Pvt. Ltd. ",
+    "seo_lionel_velloz_author" => "",
+    "seo_lionel_velloz_keywords" => "Glocal Marketing Solutions Pvt. Ltd. | Ace Technologies & Infrastructure Pvt. Ltd. | Art of Technologies Infrastructure Limited | technology solutions | Lionel Velloz",
+
+
+
     // company_distributed
     "company_distributed" => [
         // [

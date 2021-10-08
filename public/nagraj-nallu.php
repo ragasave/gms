@@ -3,6 +3,11 @@
 
 <head>
     <?php include_once('./../head.php'); ?>
+    <title><?= $config['seo_nagraj_nallu_title'] ?></title>
+    <meta name="description" content="<?= $config['seo_nagraj_nallu_description'] ?>">
+    <meta name="author" content="<?= $config['seo_nagraj_nallu_author'] ?>">
+    <meta name="keywords" content="<?= $config['seo_nagraj_nallu_keywords'] ?>">
+
 </head>
 
 <body>
@@ -31,10 +36,11 @@
         <div class="section-container lh">
             <div class="xx-out-teams">
                 <div class="xx-out-teams-img">
-                    <img src="images/founder.jpg" alt="" srcset="">
+                    <img src="images/founder.jpg" alt="Mr. Nagraj Nallu - Chief Executive Officer at Glocal Marketing Solutions Pvt. Ltd." srcset="">
                 </div>
                 <br>
-                <!-- <h4 class="tc">Founder</h4> -->
+                <h1 class="tc">Mr. Nagraj Nallu</h1>
+                <h4 class="tc">Chief Executive Officer at Glocal Marketing Solutions Pvt. Ltd.</h4>
                 <br>
                 <br>
                 <hr>
