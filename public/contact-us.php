@@ -3,6 +3,11 @@
 
 <head>
     <?php include_once('./../head.php'); ?>
+    <title><?= $config['seo_contact_title'] ?></title>
+    <meta name="description" content="<?= $config['seo_contact_description'] ?>">
+    <meta name="author" content="<?= $config['seo_contact_author'] ?>">
+    <meta name="keywords" content="<?= $config['seo_contact_keywords'] ?>">
+
 </head>
 
 <body>

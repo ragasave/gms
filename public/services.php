@@ -3,6 +3,12 @@
 
 <head>
     <?php include_once('./../head.php'); ?>
+    <title><?= $config['seo_services_title'] ?></title>
+    <meta name="description" content="<?= $config['seo_services_description'] ?>">
+    <meta name="author" content="<?= $config['seo_services_author'] ?>">
+    <meta name="keywords" content="<?= $config['seo_services_keywords'] ?>">
+
+
 </head>
 
 <body>
@@ -20,7 +26,7 @@
     <section class=" section page-navigate-section">
         <div class="section-container">
             <br>
-            <span class="nvgt-home">Home </span> <span class="nvgt-current">Services</span>
+            <span class="nvgt-home">Home </span> <span class="nvgt-current">Our Services</span>
             <br>
             <br>
         </div>
@@ -34,7 +40,7 @@
                 <div class="xx--section-services-item">
                     <div class="xx--section-services-item-list">
                         <div class="xx--section-services-item-img">
-                            <img src="./images/6671.jpg" alt="" srcset="">
+                            <img src="./images/6671.jpg" alt="Assessing opportunities and evaluating market size" srcset="">
                         </div>
                         <div class="xx--section-services-item-desc">
                             <h3>Opportunity Sizing</h3>
@@ -70,7 +76,7 @@
                 <div class="xx--section-services-item">
                     <div class="xx--section-services-item-list">
                         <div class="xx--section-services-item-img">
-                            <img src="./images/23456.png" alt="" srcset="">
+                            <img src="./images/23456.png" alt="Sales Support" srcset="">
                         </div>
                         <div class="xx--section-services-item-desc">
                             <h3>Sales Support</h3>
@@ -104,7 +110,7 @@
                 <div class="xx--section-services-item">
                     <div class="xx--section-services-item-list">
                         <div class="xx--section-services-item-img">
-                            <img src="./images/1819.jpg" alt="" srcset="">
+                            <img src="./images/1819.jpg" alt="Local Representation" srcset="">
                         </div>
                         <div class="xx--section-services-item-desc">
                             <h3>Local Representation</h3>
@@ -150,7 +156,7 @@
                 <div class="xx--section-services-item">
                     <div class="xx--section-services-item-list">
                         <div class="xx--section-services-item-img">
-                            <img src="./images/buil.png" alt="" srcset="">
+                            <img src="./images/buil.png" alt="Representative Offices" srcset="">
                         </div>
                         <div class="xx--section-services-item-desc">
                             <h3>Representative Offices</h3>
@@ -188,7 +194,7 @@
                 <div class="xx--section-services-item">
                     <div class="xx--section-services-item-list">
                         <div class="xx--section-services-item-img">
-                            <img src="./images/wholly-Owned-Subsidiary.png" alt="" srcset="">
+                            <img src="./images/wholly-Owned-Subsidiary.png" alt="Wholly Owned Subsidiary" srcset="">
                         </div>
                         <div class="xx--section-services-item-desc">
                             <h3>Wholly Owned Subsidiary</h3>

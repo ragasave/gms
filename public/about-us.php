@@ -3,6 +3,11 @@
 
 <head>
     <?php include_once('./../head.php'); ?>
+    <title><?= $config['seo_about_title'] ?></title>
+    <meta name="description" content="<?= $config['seo_about_description'] ?>">
+    <meta name="author" content="<?= $config['seo_about_author'] ?>">
+    <meta name="keywords" content="<?= $config['seo_about_keywords'] ?>">
+
 </head>
 
 <body>
@@ -31,7 +36,7 @@
             <div class="">
                 <div class="xx-about-s1-section-items">
                     <div class="xx-about-s1-section-item">
-                        <img src="./images/businessman-touching-virtual-screen.jpg" alt="">
+                        <img src="./images/businessman-touching-virtual-screen.jpg" alt="Representation in the global market">
                     </div>
                     <div class="xx-about-s1-section-item">
                         <h2>About Us</h2>

@@ -3,6 +3,12 @@
 
 <head>
     <?php include_once('./../head.php'); ?>
+    <title><?= $config['seo_home_title'] ?></title>
+    <meta name="description" content="<?= $config['seo_home_description'] ?>">
+    <meta name="author" content="<?= $config['seo_home_author'] ?>">
+    <meta name="keywords" content="<?= $config['seo_home_keywords'] ?>">
+
+
     <link rel="stylesheet" href="css/space.css">
 </head>
 
@@ -98,7 +104,7 @@
                         <div class="content">
                             <div class="cc hc">
                                 <div class="ccw">
-                                    <img src="images/opportunity.png" alt="" srcset="">
+                                    <img src="images/opportunity.png" alt="Opportunity Sizing" srcset="">
                                     <h3>Opportunity Sizing</h3>
                                 </div>
                             </div>
@@ -112,7 +118,7 @@
                         <div class="content">
                             <div class="cc hc">
                                 <div class="ccw">
-                                    <img src="images/590-01-512.png" alt="" srcset="">
+                                    <img src="images/590-01-512.png" alt="Sales Support" srcset="">
                                     <h3>Sales Support</h3>
                                 </div>
                             </div>
@@ -126,7 +132,7 @@
                         <div class="content">
                             <div class="cc hc">
                                 <div class="ccw">
-                                    <img src="images/renovation-icon.png" alt="" srcset="">
+                                    <img src="images/renovation-icon.png" alt="Local Representation" srcset="">
                                     <h3>Local Representation</h3>
                                 </div>
                             </div>
@@ -139,7 +145,7 @@
                         <div class="content">
                             <div class="cc hc">
                                 <div class="ccw">
-                                    <img src="images/office.png" alt="" srcset="">
+                                    <img src="images/office.png" alt="Representation Offices" srcset="">
                                     <h3>Representation Offices</h3>
                                 </div>
                             </div>
@@ -153,7 +159,7 @@
                         <div class="content">
                             <div class="cc hc">
                                 <div class="ccw">
-                                    <img src="images/545554.png" alt="" srcset="">
+                                    <img src="images/545554.png" alt="Representation Offices" srcset="">
                                     <h3>Representation Offices</h3>
                                 </div>
                             </div>
@@ -169,6 +175,7 @@
             <br>
             <br>
             <h1 class="uc tc">Challenges in Global Marketing</h1>
+            <h4 class="uc tc">WE SUPPORT "MAKE IN INDIA" BRANDS</h4>
             <br>
             <br>
             <br>
@@ -365,19 +372,19 @@
 
                     <div class="solution-section-s2-items">
                         <div class="solution-section-s2-item">
-                            <img src="images/image-250nw-740148886.png" alt="" class="solution-section-s2-item-img">
+                            <img src="images/image-250nw-740148886.png" alt="Rapidity" class="solution-section-s2-item-img">
                             <h3>Rapidity</h3>
                         </div>
                         <div class="solution-section-s2-item">
-                            <img src="images/istockphoto-1227604162-612x612.png" alt="" class="solution-section-s2-item-img">
+                            <img src="images/istockphoto-1227604162-612x612.png" alt="Reduce Risk" class="solution-section-s2-item-img">
                             <h3>Reduce Risk</h3>
                         </div>
                         <div class="solution-section-s2-item">
-                            <img src="images/download.png" alt="" class="solution-section-s2-item-img">
+                            <img src="images/download.png" alt="Efficiency" class="solution-section-s2-item-img">
                             <h3>Efficiency</h3>
                         </div>
                         <div class="solution-section-s2-item">
-                            <img src="images/worldwide-globe.png" alt="" class="solution-section-s2-item-img">
+                            <img src="images/worldwide-globe.png" alt="Worldwide Influence" class="solution-section-s2-item-img">
                             <h3>Worldwide Influence</h3>
                         </div>
                     </div>
@@ -396,7 +403,7 @@
                 <div class="solution-section-s4-items">
                     <div class="solution-section-s4-item solution-section-s4-item-ol">
                         <div class="solution-section-s4-item-img">
-                            <img src="images/image-250nw-740148886.png" alt="" class="solution-section-s2-item-img">
+                            <img src="images/image-250nw-740148886.png" alt="Our existing relationships with buying teams from top distributors and retailers worldwide allow us to get our clients’ products in front of key decision makers very fast. We adjust our approach and timeline based on our client’s needs and resources. We typically start with a market test to assess the growth potential based on direct feedback from our distribution partners. Based on the client’s objectives and the feedback received from distribution partners, we then target select geographies and sell to all channels and distribution partners within the selected markets." class="solution-section-s2-item-img">
                         </div>
                         <div class="solution-section-s4-item-desc">
                         Our existing relationships with buying teams from top distributors and retailers worldwide allow us to get our clients’ products in front of key decision makers very fast. We adjust our approach and timeline based on our client’s needs and resources. We typically start with a market test to assess the growth potential based on direct feedback from our distribution partners. Based on the client’s objectives and the feedback received from distribution partners, we then target select geographies and sell to all channels and distribution partners within the selected markets.
@@ -409,7 +416,7 @@
                     <br>
                     <div class="solution-section-s4-item solution-section-s4-item-or">
                         <div class="solution-section-s4-item-img">
-                            <img src="images/istockphoto-1227604162-612x612.png" alt="" class="solution-section-s2-item-img">
+                            <img src="images/istockphoto-1227604162-612x612.png" alt="Organizations entering foreign markets can find it expensive, risky and time consuming. The ability to learn how different markets operate before setting up operations is essential for a successful market entry. We understand the local laws and regulations as well as the differences in business culture and consumer behavior. We guide our clients through all the steps of the market entry. When working with us, clients can adapt the pace of the expansion, choose only the markets and channels that best fit their business needs and minimize the overall risk of the market entry." class="solution-section-s2-item-img">
                         </div>
                         <div class="solution-section-s4-item-desc">
                         Organizations entering foreign markets can find it expensive, risky and time consuming. The ability to learn how different markets operate before setting up operations is essential for a successful market entry. We understand the local laws and regulations as well as the differences in business culture and consumer behavior. We guide our clients through all the steps of the market entry. When working with us, clients can adapt the pace of the expansion, choose only the markets and channels that best fit their business needs and minimize the overall risk of the market entry.
@@ -422,7 +429,7 @@
                     <br>
                     <div class="solution-section-s4-item solution-section-s4-item-ol">
                         <div class="solution-section-s4-item-img">
-                            <img src="images/download.png" alt="" class="solution-section-s2-item-img">
+                            <img src="images/download.png" alt="Depending on the target market, it can take months or even several years, before an exporting company achieves a return on investment. Many exporting companies are unsuccessful in their efforts because of poor planning and limited knowledge of the international landscape, which often leads them to abandon the exporting operations altogether. We perform the market research, select the right distribution partners, access well-established expertise and trade contacts and basically sell products to distribution partners, relieving clients of all the hassles of managing foreign operations, except that of filling purchase orders." class="solution-section-s2-item-img">
                         </div>
                         <div class="solution-section-s4-item-desc">
                             Depending on the target market, it can take months or even several years, before an exporting company achieves a return on investment. Many exporting companies are unsuccessful in their efforts because of poor planning and limited knowledge of the international landscape, which often leads them to abandon the exporting operations altogether. We perform the market research, select the right distribution partners, access well-established expertise and trade contacts and basically sell products to distribution partners, relieving clients of all the hassles of managing foreign operations, except that of filling purchase orders.
@@ -435,7 +442,7 @@
                     <br>
                     <div class="solution-section-s4-item solution-section-s4-item-or">
                         <div class="solution-section-s4-item-img">
-                            <img src="images/worldwide-globe.png" alt="" class="solution-section-s2-item-img">
+                            <img src="images/worldwide-globe.png" alt="We cover all major markets in Europe, America and Asia & Pacific. We work with all major distribution channels from wholesalers and distributors to major retail chains and online stores in all the markets we cover. Our clients can choose the markets to expand into, the channels to target, and the pace of the international expansion." class="solution-section-s2-item-img">
                         </div>
                         <div class="solution-section-s4-item-desc">
                             We cover all major markets in Europe, America and Asia & Pacific. We work with all major distribution channels from wholesalers and distributors to major retail chains and online stores in all the markets we cover. Our clients can choose the markets to expand into, the channels to target, and the pace of the international expansion.
@@ -545,7 +552,7 @@
                 <div class="service-explaination d-tab">
                     <!-- <h2 class="tc">We Support Make In India</h2> -->
                     <br>
-                    <img src="images/mii.jpg" alt="" style="max-width:300px;margin:auto;display:table">
+                    <img src="images/mii.jpg" alt="We Support Make In India" style="max-width:300px;margin:auto;display:table">
                     <br>
                     <br>
                     <p>

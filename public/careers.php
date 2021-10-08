@@ -3,6 +3,12 @@
 
 <head>
     <?php include_once('./../head.php'); ?>
+    <title><?= $config['seo_career_title'] ?></title>
+    <meta name="description" content="<?= $config['seo_career_description'] ?>">
+    <meta name="author" content="<?= $config['seo_career_author'] ?>">
+    <meta name="keywords" content="<?= $config['seo_career_keywords'] ?>">
+
+
 </head>
 
 <body>
@@ -42,7 +48,7 @@
                     <div class="xx-career-form">
                         <div class="xx-career-form-wrapper">
                             <br>
-                            <h2 class="tc">Send us Resume</h2>
+                            <h2 class="tc">Send Us Your Resume</h2>
                             <br>
                             <form action="" method="post">
                                 <div class="xx-form-item">
