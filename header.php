@@ -3,7 +3,7 @@
         <div class="header-wrapper">
             <div class="header-logo">
                 <a href="./">
-                    <img src="./images/logo-md.png" alt="" srcset="">
+                    <img src="./images/gms-28-01-22-sm.png" alt="" srcset="">
                 </a>
             </div>
             <div class="header-menu-toggler">
